@@ -1,0 +1,4 @@
+/home/dreamer/CLionProjects/opengl_cpp/cmake-build-debug/CMakeFiles/glad.dir
+/home/dreamer/CLionProjects/opengl_cpp/cmake-build-debug/CMakeFiles/untitled.dir
+/home/dreamer/CLionProjects/opengl_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dreamer/CLionProjects/opengl_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

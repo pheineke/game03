@@ -1,0 +1,8 @@
+# ninja log v6
+1	182	1733740529929780824	CMakeFiles/untitled.dir/src/main.cpp.o.ddi	d958ae2f77b500f8
+977	1138	1733740530905778276	untitled	c37b065d16ab4bb4
+183	191	1733740530118780330	CMakeFiles/untitled.dir/CXX.dd	fef43c45432c2a6b
+266	346	1733740530194780132	libglad.a	5228f040ad4ae511
+7	265	1733740529935780808	CMakeFiles/glad.dir/src/glad.c.o	b444d557157c1f3c
+183	191	1733740530118780330	CMakeFiles/untitled.dir/src/main.cpp.o.modmap	fef43c45432c2a6b
+192	975	1733740530120780325	CMakeFiles/untitled.dir/src/main.cpp.o	9dcbb8cdb6aa4a56
