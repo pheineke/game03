@@ -1,0 +1,24 @@
+{
+  "name": "webglapp03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev:vite": "vite",
+    "dev:server": "node server.js",
+    "dev": "concurrently \"npm run dev:vite\" \"npm run dev:server\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "three": "^0.171.0",
+    "url": "^0.11.4",
+    "vite": "^6.0.3",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  }
+}
