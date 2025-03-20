@@ -5,17 +5,17 @@
 	"compiler-simulate-id" : "",
 	"config" : "Debug",
 	"cxx-modules" : {},
-	"dir-cur-bld" : "/home/dreamer/CLionProjects/opengl_cpp/cmake-build-debug",
-	"dir-cur-src" : "/home/dreamer/CLionProjects/opengl_cpp",
-	"dir-top-bld" : "/home/dreamer/CLionProjects/opengl_cpp/cmake-build-debug",
-	"dir-top-src" : "/home/dreamer/CLionProjects/opengl_cpp",
+	"dir-cur-bld" : "/home/dreamer/Coding/GitRepos/game03/opengl_cpp/cmake-build-debug",
+	"dir-cur-src" : "/home/dreamer/Coding/GitRepos/game03/opengl_cpp",
+	"dir-top-bld" : "/home/dreamer/Coding/GitRepos/game03/opengl_cpp/cmake-build-debug",
+	"dir-top-src" : "/home/dreamer/Coding/GitRepos/game03/opengl_cpp",
 	"exports" : [],
 	"forward-modules-from-target-dirs" : [],
 	"include-dirs" : 
 	[
-		"/home/dreamer/CLionProjects/opengl_cpp/include"
+		"/home/dreamer/Coding/GitRepos/game03/opengl_cpp/include"
 	],
 	"language" : "CXX",
 	"linked-target-dirs" : [],
-	"module-dir" : "/home/dreamer/CLionProjects/opengl_cpp/cmake-build-debug/CMakeFiles/untitled.dir"
+	"module-dir" : "/home/dreamer/Coding/GitRepos/game03/opengl_cpp/cmake-build-debug/CMakeFiles/untitled.dir"
 }

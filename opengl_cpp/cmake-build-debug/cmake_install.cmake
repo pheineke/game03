@@ -1,4 +1,4 @@
-# Install script for directory: /home/dreamer/CLionProjects/opengl_cpp
+# Install script for directory: /home/dreamer/Coding/GitRepos/game03/opengl_cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/dreamer/CLionProjects/opengl_cpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/dreamer/Coding/GitRepos/game03/opengl_cpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
